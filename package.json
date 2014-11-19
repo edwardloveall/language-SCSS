@@ -1,0 +1,12 @@
+{
+  "name": "language--s-c-s-s",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/atom/language--s-c-s-s",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

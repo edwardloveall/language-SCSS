@@ -1,7 +1,7 @@
 language-SCSS
 =============
 
-A Atom conversion of the TextMate Bundle for SCSS support
+An Atom conversion of the TextMate Bundle for SCSS support
 
 Adds syntax highlighting and snippets for SCSS files into Atom.
 

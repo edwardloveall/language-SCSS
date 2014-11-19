@@ -1,12 +1,11 @@
 {
-  "name": "language--s-c-s-s",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/language--s-c-s-s",
+  "name": "language-SCSS",
+  "version": "0.1.0",
+  "description": "SCSS support",
+  "repository": "https://github.com/jonnyhaynes/language-SCSS",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

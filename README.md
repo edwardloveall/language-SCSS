@@ -1,5 +1,7 @@
 # language-SCSS
 
+[![Build Status](https://travis-ci.org/jonnyhaynes/language-SCSS.svg)](https://travis-ci.org/jonnyhaynes/language-SCSS)
+
 An Atom conversion of the TextMate Bundle for SCSS support
 
 Adds syntax highlighting and snippets for SCSS files into Atom.

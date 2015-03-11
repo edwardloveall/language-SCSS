@@ -1,6 +1,6 @@
 # language-SCSS
 
-[![Build Status](https://travis-ci.org/jonnyhaynes/language-SCSS.svg)](https://travis-ci.org/jonnyhaynes/language-SCSS)
+[![Build Status](https://travis-ci.org/jonnyhaynes/language-SCSS.svg)](https://travis-ci.org/jonnyhaynes/language-SCSS) [![Code Climate](https://codeclimate.com/github/jonnyhaynes/language-SCSS/badges/gpa.svg)](https://codeclimate.com/github/jonnyhaynes/language-SCSS)
 
 An Atom conversion of the TextMate Bundle for SCSS support
 
